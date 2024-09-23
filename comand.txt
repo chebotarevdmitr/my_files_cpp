@@ -1,0 +1,7 @@
+ctrl + c - Kill commad
+ctrl + z - Stop (suspend)
+fg foreground job [number] -> vivjd na peredniy plan (nomer)
+exit -> exsit terminal
+shift PgOp -> nachalo vverh
+shift PgOn -> conec v niz
+history
