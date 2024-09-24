@@ -5,3 +5,12 @@ exit -> exsit terminal
 shift PgOp -> nachalo vverh
 shift PgOn -> conec v niz
 history
+tar c  -> create archive // sozdanie arhiva
+tar r -> append to archive //dobavlenie papok varhiv 
+tar t -> list contents of archive // posmotrey bez raspakovki
+tar x -> extrat archive // raspakovka arhiva
+tar v -> verbose // rashirennyiy rejim
+tar f file -> fale to use // ukazanie imeni faila
+gzip -> classic compression in linux 
+d -> deconpress file
+bzip2 -> mjre compression than gzip but more time to compress`
