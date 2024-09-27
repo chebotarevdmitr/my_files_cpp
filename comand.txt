@@ -14,3 +14,8 @@ tar f file -> fale to use // ukazanie imeni faila
 gzip -> classic compression in linux 
 d -> deconpress file
 bzip2 -> mjre compression than gzip but more time to compress`
+SPECSIMVOL
+  *  matches zero or all characters // porfzivaet libo otsutstvie simvolov ili vse simvoli srazu
+  ?  matches exactly one character // sootvetctvuet tolko odnomu simvolu
+ []  matches any of the charatcters enclosed in the brackets sootvetstvuet simvolam zakluchennim v skobki
+ \   escape character // bsgjlzuetsya dlya isklucheniya simvokov kotorie idut pered nim
