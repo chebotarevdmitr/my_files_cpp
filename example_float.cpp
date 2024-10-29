@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-int main (){
-    float x = 1.2345;
-    printf("x=%10.5f\n",x);
+  int main(){
+    printf("hello Vasya \n");
+    printf("Ivam salyam\n");
     return 0;
 }
